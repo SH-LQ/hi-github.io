@@ -1,3 +1,3 @@
-# hi-github.io
+# hi.github.io
 test
 This is only a test file.
